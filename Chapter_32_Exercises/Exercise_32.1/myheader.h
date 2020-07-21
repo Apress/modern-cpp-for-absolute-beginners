@@ -1,0 +1,1 @@
+void myfunction();  //function declaration

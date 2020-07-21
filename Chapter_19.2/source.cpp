@@ -1,0 +1,6 @@
+void myvoidfunction();
+
+int main()
+{
+
+}
